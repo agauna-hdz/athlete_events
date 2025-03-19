@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1BJ438NgwzZJSBaTDx_TlWQEjmWUCQFur
 """
 
-pip install dash plotly pandas
+#pip install dash plotly pandas
 
 import pandas as pd
 
